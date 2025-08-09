@@ -61,8 +61,3 @@ Checked data types, null values, and descriptive statistics.
 - `README.md` – Project documentation
 
 ---
-
-## 📝 Submission
-This task is part of the **AI & ML Internship**  
-**Task 1: Data Cleaning & Preprocessing**
-
